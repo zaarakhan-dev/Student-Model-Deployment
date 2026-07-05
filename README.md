@@ -32,7 +32,7 @@ Student-Model-Deployment
 ├── requirements.txt
 ├── README.md
 ├── Report.pdf
-│
+├── .gitignore
 └── screenshots
     ├── docker-build.png
     ├── docker-running.png
